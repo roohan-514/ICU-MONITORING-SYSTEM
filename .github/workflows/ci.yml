@@ -1,3 +1,4 @@
+create .github/workflows/ci.yml:
 name: ICU Monitoring CI
 
 on:
